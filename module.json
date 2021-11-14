@@ -1,0 +1,14 @@
+{
+  "name": "ValdaSpireOfSecretsProperties",
+  "title": "Valda's Spire of Secrets Weapon Properties",
+  "description": "Adds the new weapon properties from Valda's Spire of Secrets",
+  "version": "1.0",
+  "author": "StephanLoenen",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["ValdaSpireOfSecretsProperties.js"],
+  "manifest": "https://raw.githubusercontent.com/StephanLoenen/ValdasSpireOfSecretsProperties/main/module.json",
+  "download": "https://github.com/StephanLoenen/ValdasSpireOfSecretsProperties/archive/main.zip",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.8.9"
+}

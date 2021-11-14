@@ -1,2 +1,3 @@
-# ValdasSpireOfSecretsProperties
-Adds the new properties of weapons and armor for Valda's Spire of Secrets items.
+# Valda's Spire Of Secrets Properties
+
+Foundry module that adds the new properties of weapons for Valda's Spire of Secrets.
