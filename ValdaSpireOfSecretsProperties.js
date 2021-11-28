@@ -26,4 +26,13 @@ Hooks.on('ready', () => {
 	CONFIG.DND5E.weaponTypes['exoticR'] = 'Exotic Ranged';
 	CONFIG.DND5E.weaponProficienciesMap['exoticM'] = 'exo';
 	CONFIG.DND5E.weaponProficienciesMap['exoticR'] = 'exo';
+	CONFIG.DND5E.armorTypes['exoL'] = 'Exotic Light';
+	CONFIG.DND5E.armorTypes['exoM'] = 'Exotic Medium';
+	CONFIG.DND5E.armorTypes['exoH'] = 'Exotic Heavy';
+	CONFIG.DND5E.armorProficiencies['ExoticL'] = 'Exotic Light';
+	CONFIG.DND5E.armorProficiencies['ExoticM'] = 'Exotic Medium';
+	CONFIG.DND5E.armorProficiencies['ExoticH'] = 'Exotic Heavy';
+	CONFIG.DND5E.armorProficienciesMap['exoL'] = 'ExoticL';
+	CONFIG.DND5E.armorProficienciesMap['exoM'] = 'ExoticM';
+	CONFIG.DND5E.armorProficienciesMap['exoH'] = 'ExoticH';
 });

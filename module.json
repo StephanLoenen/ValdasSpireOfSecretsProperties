@@ -2,7 +2,7 @@
   "name": "ValdaSpireOfSecretsProperties",
   "title": "Valda's Spire of Secrets Weapon Properties",
   "description": "Adds the new weapon properties from Valda's Spire of Secrets",
-  "version": "1.1",
+  "version": "1.2",
   "author": "StephanLoenen",
   "systems": ["dnd5e"],
   "styles": [],
