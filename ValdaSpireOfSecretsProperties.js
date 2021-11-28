@@ -21,4 +21,9 @@ Hooks.on('ready', () => {
 	CONFIG.DND5E.weaponProperties['tension'] = 'Tension';
 	CONFIG.DND5E.weaponProperties['trip'] = 'Trip';
 	CONFIG.DND5E.weaponProperties['twinshot'] = 'Twinshot';
+	CONFIG.DND5E.weaponProficiencies['exo'] = 'Exotic';
+	CONFIG.DND5E.weaponTypes['exoticM'] = 'Exotic Melee';
+	CONFIG.DND5E.weaponTypes['exoticR'] = 'Exotic Ranged';
+	CONFIG.DND5E.weaponProficienciesMap['exoticM'] = 'exo';
+	CONFIG.DND5E.weaponProficienciesMap['exoticR'] = 'exo';
 });
